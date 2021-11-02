@@ -1,0 +1,10 @@
+.wrapper {
+    padding-left: 18px;
+    padding-right: 18px;
+    max-width: 728px;
+    margin: 0 auto;
+}
+
+.center {
+    text-align: center;
+}
